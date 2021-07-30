@@ -1,2 +1,2 @@
 # COVID
-Data and code for Weissman et al. (under review) Contributions of emotion regulation and brain structure and function to adolescent internalizing problems and stress vulnerability during the COVID-19 pandemic: A longitudinal study
+Data and code for Weissman, D. G., Rodman, A. M., Rosen, M. L., Kasparek, S. W., Mayes, M., Sheridan, M., Lengua, L., Meltzoff, A. N., & McLaughlin, K. A. (2021). Contributions of emotion regulation and brain structure and function to adolescent internalizing problems and stress vulnerability during the COVID-19 pandemic: A longitudinal study. Biological Psychiatry: Global Open Science. https://doi.org/10.1016/j.bpsgos.2021.06.001
